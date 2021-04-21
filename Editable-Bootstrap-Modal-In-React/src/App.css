@@ -1,0 +1,41 @@
+.modal-lable {
+  width: 40px;
+  display: inline-block;
+}
+
+.table {
+}
+
+tr {
+}
+td {
+  background: #f7f6f6;
+  border-color: #ced4da;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px 5px 5px 5px;
+}
+
+th {
+  width: 211px;
+  height: 15px;
+
+  border-color: #aaaaaa;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 1px 1px 1px 1px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+.text {
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
+.headings {
+  background: #115272;
+  text-align: center;
+}
